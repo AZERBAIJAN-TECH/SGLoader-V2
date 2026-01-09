@@ -85,7 +85,7 @@ pub fn app() -> Element {
                     div { class: "title-row",
                         div { class: "title-left",
                             h1 { {APP_TITLE} }
-                            p { class: "subtitle", "добавление функционала в options" }
+                            p { class: "subtitle", "релиз" }
                         }
                         div { class: "title-right",
                             div { class: "title-right-links",
@@ -95,7 +95,7 @@ pub fn app() -> Element {
                                     DiscordIcon {}
                                     span { "Discord" }
                                 }
-                                span { class: "badge", "0.7.0-testing" }
+                                span { class: "badge", "1.0.0-release" }
                             }
                         }
                     }
