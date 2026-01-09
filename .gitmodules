@@ -1,0 +1,3 @@
+[submodule "third_party/SGLoader-Rewrite"]
+	path = third_party/SGLoader-Rewrite
+	url = https://github.com/cheltyi/SGLoader-Rewrite
