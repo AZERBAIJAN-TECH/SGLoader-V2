@@ -12,3 +12,5 @@ Space Station 14 launcher rewritten on Rust with [Marseyloader](https://github.c
 git submodule update --init --recursive
 cargo build --release
 ```
+
+### Support: https://discord.gg/7rQDd4n6nW
